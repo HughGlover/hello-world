@@ -1,0 +1,10 @@
+tocTab[tocTab.length] = new Array("0.1:1", "", "Study", "EARoot/EA1/EA6.htm", "175.png", "689", "0", "", "Logical diagram0","{0B1130F7-060B-425d-AF81-AAAF0C57B912}");
+tocTab[tocTab.length] = new Array("0.1:2", "", "«CDM_INUSE» Project", "EARoot/EA1/EA9.htm", "5.png", "E7698", "0", "", "Class0","{56808E2D-98F6-4330-B904-EFB538438822}");
+tocTab[tocTab.length] = new Array("0.1:3", "", "«CDM_REF» Resource", "EARoot/EA1/EA10.htm", "5.png", "E7701", "0", "", "Class0","{5455CE4F-C290-41ca-9F6F-C9FB58C27B3A}");
+tocTab[tocTab.length] = new Array("0.1:4", "", "«CDM_REF» StudyProtocol_Ref", "EARoot/EA1/EA11.htm", "5.png", "E7709", "0", "", "Class0","{EFDA69AD-92D5-4118-8F71-6BD68E10E9C2}");
+tocTab[tocTab.length] = new Array("0.1:5", "", "«CDM_REF» StaffMember_Ref", "EARoot/EA1/EA12.htm", "5.png", "E7705", "0", "", "Class0","{B9C98B7A-5B71-423d-B8FC-891FC8D0B382}");
+tocTab[tocTab.length] = new Array("0.1:6", "", "«CDM_INUSE» Study", "EARoot/EA1/EA13.htm", "5.png", "E7695", "0", "", "Class0","{C288E0C3-5B56-4da3-9AF0-B184F1560B47}");
+tocTab[tocTab.length] = new Array("0.1:7", "", "«CDM_INUSE» StudyCountry", "EARoot/EA1/EA14.htm", "5.png", "E7699", "0", "", "Class0","{A635ED36-FC22-4015-807F-9E3E8C1528CD}");
+tocTab[tocTab.length] = new Array("0.1:8", "", "«CDM_REF» OrganizationRef", "EARoot/EA1/EA15.htm", "5.png", "E7719", "0", "", "Class0","{1FE3D6BC-54DF-466c-920D-45164981B3BD}");
+tocTab[tocTab.length] = new Array("0.1:9", "", "«CDM_INUSE» StudyResource", "EARoot/EA1/EA16.htm", "5.png", "E7702", "0", "", "Class0","{E4AA4060-C3F7-430b-83DC-567EA8D8D7AA}");
+tocTab[tocTab.length] = new Array("0.1:10", "", "«CDM_INUSE» AllocatedStaffMember", "EARoot/EA1/EA17.htm", "5.png", "E7696", "0", "", "Class0","{A906E9AF-2E75-4b2b-958A-3021D10BC468}");
